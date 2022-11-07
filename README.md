@@ -12,6 +12,6 @@
  	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipespessoto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <h4>Caso tenha interesse em saber mais um pouco do meu trabalho, aqui mesmo, no GitHub, tenho um arquivo de portfolio! É só clicar na imagem abaixo 😃</h4>
-<a href="https://github.com/FelipEspessoto/Portfolio"><img src="https://img2.gratispng.com/20180628/wpy/kisspng-github-social-media-computer-icons-logo-android-5b34849064c384.6953108415301684644127.jpg"></a>
+<a href="https://github.com/FelipEspessoto/Portfolio"><img src="D:\FELIPE\Imagens\githublogo.png" align="center" width="" height=""></a>
 <br>
 📧 Contato: felpsesp@gmail.com
