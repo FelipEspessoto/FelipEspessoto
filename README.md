@@ -1,6 +1,10 @@
 <div align="left">
   <h3>Olá! Sou o Felipe, seja bem vindo ao meu GitHub!</h3>
   <h5>Atualmente trabalho na área de Desenvolvimento Front-End e Desenvolvimento Web, atuando desde a criação de um site ou somente alterando a sua estilização</h5>
+<border="bottom" >
+</div>
+<div align="left">
+  <img src="">
 </div>
 <div align="center">
   <a href="https://github.com/FelipEspessoto">
@@ -9,9 +13,6 @@
 </div>
 <div align="">
   <h3>Caso tenha interesse em saber mais um pouco do meu trabalho, aqui mesmo, no GitHub, tenho um arquivo de portfolio!</h3>
-</div>
-<div align="center">
-  <img src="D:\FELIPE\Imagens\gifprogramming">
 </div>
 <br>
 📧 Contato: felpsesp@gmail.com
