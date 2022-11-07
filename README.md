@@ -7,8 +7,8 @@
 <!--GitHub Stats-->
 <div align="center">
  	<a href="https://github.com/FelipEspessoto">
- 	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=felipespessoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipespessoto&layout=compact&langs_count=7&theme=dark"/>
+ 	<img width="44%" src="https://github-readme-stats.vercel.app/api?username=felipespessoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ 	<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipespessoto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!--Portfolio acess-->
 
