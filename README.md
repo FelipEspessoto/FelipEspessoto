@@ -10,7 +10,12 @@
  	<img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipespessoto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!--Portfolio acess-->
-<h4>If you're interested in my job, I've a porfolio in my GitHub page, to acess just click the image below! 😃</h4>
-<a href="https://github.com/FelipEspessoto/Portfolio"><img src="/githublogo.png" align="center"></a>
-<br>
-Contact me:📩felpsesp@gmail.com
+<h2>Porfolio</h2>
+    <h4>If you're interested in my job, I've a porfolio in my GitHub page, to acess just click <a href="https://github.com/FelipEspessoto/Portfolio">here</a>! 😃</h4>
+<h2>LinkedIn</h2>
+    Here are my LinkedIn, there u can have a better professional vision about my work (<a href="https://www.linkedin.com/in/felipespessoto/?locale=en_US"> ENG</a> | <a href="https://www.linkedin.com/in/felipespessoto/">PT</a> )
+<h2>Contact</h2>
+    Here are some options that u can use to contact me!
+    <ul>
+        <li>📩felpsesp@gmail.com</li>
+        <li></li>
