@@ -10,7 +10,6 @@
  	<img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipespessoto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!--Portfolio acess-->
-
 <h4>If you're interested in my job, I've a porfolio in my GitHub page, to acess just click the image below! 😃</h4>
 <a href="https://github.com/FelipEspessoto/Portfolio"><img src="/githublogo.png" align="center"></a>
 <br>
