@@ -9,9 +9,6 @@
  	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=felipespessoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  	<img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipespessoto&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<!--Portfolio acess-->
-<h2>Porfolio</h2>
-    <h4>If you're interested in my job, I've a porfolio in my GitHub page, to acess just click <a href="https://github.com/FelipEspessoto/Portfolio">here</a>! 😃</h4>
 <h2>LinkedIn</h2>
     Here are my LinkedIn, there u can have a better professional vision about my work (<a href="https://www.linkedin.com/in/felipespessoto/?locale=en_US"> ENG</a> | <a href="https://www.linkedin.com/in/felipespessoto/">PT</a> )
 <h2>Contact</h2>
