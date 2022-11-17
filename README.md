@@ -15,4 +15,4 @@
     Here are some options that u can use to contact me!
     <ul>
         <li>📩felpsesp@gmail.com</li>
-        <li></li>
+
