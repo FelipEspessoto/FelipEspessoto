@@ -6,8 +6,8 @@
 <!--GitHub Stats-->
 <div align="center">
  	<a href="https://github.com/FelipEspessoto">
- 	<img width="39.5%" src="https://github-readme-stats.vercel.app/api?username=felipespessoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipespessoto&layout=compact&langs_count=7&theme=dark"/>
+ 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipespessoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipespessoto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <h2>LinkedIn</h2>
     Here are my LinkedIn, there u can have a better professional vision about my work (<a href="https://www.linkedin.com/in/felipespessoto/?locale=en_US"> ENG</a> | <a href="https://www.linkedin.com/in/felipespessoto/">PT</a> )
