@@ -1,7 +1,7 @@
 <!--Header with the gif link and title/subtitle-->
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="20%" height="125" align="right" alt="GIF" />
 <h1>Hi, I'm Felipe! 🤝🏻</h1>
-<h4> 💻 Front-End and Web Developer!</h4>
+<h4> 💻 Front-End Developer!</h4>
 <br>
 <!--GitHub Stats-->
 <div align="center">
