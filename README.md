@@ -6,8 +6,6 @@
 <!--GitHub Stats-->
 <div align="center">
  	<a href="https://github.com/FelipEspessoto">
- 	<img height="170rem" src="https://github-readme-stats.vercel.app/api?username=felipespessoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 	<img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipespessoto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!-- Linkedin links -->
 <h2>LinkedIn</h2>
