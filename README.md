@@ -8,6 +8,5 @@
  	<a href="https://github.com/FelipEspessoto">
 </div>
 <!-- Linkedin links -->
-<h2>LinkedIn</h2>
-    Here are my LinkedIn, there u can have a better professional vision about my work (<a href="https://www.linkedin.com/in/felipespessoto/?locale=en_US">ENG</a> | <a href="https://www.linkedin.com/in/felipespessoto/">PT</a> )
-<h2>Contact</h2>
+<h2>Linkedin</h2>
+(<a href="https://www.linkedin.com/in/felipespessoto/?locale=en_US">ENG</a>|<a href="https://www.linkedin.com/in/felipespessoto/">PT</a> )
