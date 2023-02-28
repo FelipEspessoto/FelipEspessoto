@@ -1,9 +1,8 @@
 <!--Header with the gif link and title/subtitle-->
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="20%" height="125" align="right" alt="GIF" />
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Felipe Espessoto
-========================================================================================================================================
+Hi ! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> My name is Felipe Espessoto
 
-Junior Developer
+Level -> Junior Developer
 ----------------
 
 I'm a programming student, now focused in Front-end.
@@ -19,10 +18,10 @@ I'm a programming student, now focused in Front-end.
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
                     
-                  ### Socials
+Socials
                   
                   
-                <p align="left">
+<p align="left">
                           
                       <a href="https://discord.com/users/ynopower" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
