@@ -8,8 +8,6 @@ I'm a programming student
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [felpsesp@gmail.com](mailto:felpsesp@gmail.com)
 
-### Skills
-
 ### Socials
 
 <p align="left">
