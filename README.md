@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Junior Developer
 ----------------
-🎯 Currently taking the CS50x / CC50 course to build a strong foundation in Computer Science.
+🎯 Currently taking the CS50x course to build a strong foundation in Computer Science.
 
 I'm a programming student
 * 🌍  I'm based in Brazil
